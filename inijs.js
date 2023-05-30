@@ -1,0 +1,1 @@
+console.log('akses Js dari client side !!!!')
